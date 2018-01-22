@@ -1,5 +1,9 @@
 {
-    "name": "Asmirnov2/Testcmpz",
+    "name": "asmirnov2/testcmpz",
     "version": "2.0.0",
-	"minimum-stability" : "stable"
+    "autoload": { 
+        "psr-0": "src"
+    }
+
+
 }
