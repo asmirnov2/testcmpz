@@ -1,4 +1,5 @@
 {
-	"name" : "asmirnov2/testcmpz",
+    "name": "Asmirnov2/Testcmpz",
+    "version": "2.0.0",
 	"minimum-stability" : "stable"
 }
