@@ -2,7 +2,7 @@
     "name": "lala/gugu",
     "version": "2.0.3",
     "autoload": {
-        "classmap": [ "/" ]
+        "classmap": [ "./" ]
     }
     
 
