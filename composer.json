@@ -1,6 +1,5 @@
 {
     "name": "LalaZaza/Gugu",
-    "version": "2.0.4",
     "autoload": {
         "classmap": [ "./" ]
     }
