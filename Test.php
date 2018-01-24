@@ -3,7 +3,7 @@
 class Test 
 {
 	public $i;
-	public f1(): void
+	public function f1(): void
 	{
 		echo 'Asmirnov2\Testcmpz\f1()'.'<br>';
 	}
