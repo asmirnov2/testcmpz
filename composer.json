@@ -1,5 +1,15 @@
 {
-    "name": "LalaZaza/Gugu",   
+    "name": "LalaZaza/Gugu",
+    "repositories": [
+        {
+			"type" : "vcs",
+			"url" : "https://github.com/asmirnov2/testcmpz2.git"
+		}
+    ],
+    
+	"require" : {        
+        "LalaZaza/Juju" : "dev-master"
+	},   
     "autoload": {
         "classmap": [ "/" ]
     }
