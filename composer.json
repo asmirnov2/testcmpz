@@ -7,7 +7,7 @@
 		}
 	],
 	"require" : {		
-		"LalaZaza/Juju" : "*"
+		"LalaZaza/Juju" : "1.0.0"
 	},
     "autoload": {
         "classmap": [ "/" ]
