@@ -5,8 +5,7 @@
 			"url" : "https://github.com/asmirnov2/testcmpz2.git"
 		}
 	],
-	"require" : {
-		"php" : ">=7.1",
+	"require" : {		
 		"LalaZaza/Juju" : "dev-master"
 	},
     "autoload": {
