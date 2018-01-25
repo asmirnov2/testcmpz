@@ -1,5 +1,6 @@
 {
     "name": "LalaZaza/Gugu",
+    "version": "1.0.0",
     "repositories" : [{
 			"type" : "vcs",
 			"url" : "https://github.com/asmirnov2/testcmpz2.git"
