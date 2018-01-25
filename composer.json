@@ -1,7 +1,7 @@
 {
     "name": "LalaZaza/Gugu",
     "autoload": {
-        "files": [ "Test.php" ]
+        "classmap": [ "/" ]
     }
     
 

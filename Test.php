@@ -5,6 +5,6 @@ class Test
 	public $i;
 	public function f1(): void
 	{
-		echo 'z Asmirnov2\Testcmpz\f1()'.'<br>';
+		echo 'z Asmirnov2\Testcmpz\Test::f1()'.'<br>';
 	}
 }
