@@ -8,7 +8,7 @@
     ],
     
 	"require" : {        
-        "LalaZaza/Juju" : "dev-master"
+        "LalaZaza/Juju" : "*"
 	},   
     "autoload": {
         "classmap": [ "/" ]
