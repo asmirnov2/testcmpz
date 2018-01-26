@@ -6,9 +6,10 @@
 			"url" : "https://github.com/asmirnov2/testcmpz2.git"
 		}
     ],
-    
+    "minimum-stability": "dev",
+    "prefer-stable": true,
 	"require" : {        
-        "LalaZaza/Juju" : "*"
+        "LalaZaza/Juju" : "dev-master"
 	},   
     "autoload": {
         "classmap": [ "/" ]
