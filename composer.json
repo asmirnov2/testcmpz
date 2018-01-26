@@ -1,16 +1,5 @@
 {
-    "name": "LalaZaza/Gugu",
-    "repositories": [
-        {
-			"type" : "vcs",
-			"url" : "https://github.com/asmirnov2/testcmpz2.git"
-		}
-    ],
-    "minimum-stability": "dev",
-    "prefer-stable": true,
-	"require" : {        
-        "LalaZaza/Juju" : "dev-master"
-	},   
+    "name": "LalaZaza/Gugu",    
     "autoload": {
         "classmap": [ "/" ]
     }
