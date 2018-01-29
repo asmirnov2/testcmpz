@@ -1,11 +1,17 @@
 {
     "name": "LalaZaza/Gugu",
-    "require": { 
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/asmirnov2/testcmpz2.git"
+        }
+    ],
+    "require": {
         "LalaZaza/Juju": "@dev"
     },
     "autoload": {
         "classmap": [ "/" ]
     }
-    
+
 
 }
