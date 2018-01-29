@@ -1,5 +1,8 @@
 {
-    "name": "LalaZaza/Gugu",    
+    "name": "LalaZaza/Gugu",
+    "require": { 
+        "LalaZaza/Juju": "@dev"
+    },
     "autoload": {
         "classmap": [ "/" ]
     }
