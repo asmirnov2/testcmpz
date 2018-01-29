@@ -1,12 +1,5 @@
 {
-    "name": "LalaZaza/Gugu",
-     "minimum-stability": "dev",
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/asmirnov2/testcmpz2.git"
-        }
-    ],
+    "name": "LalaZaza/Gugu",    
     "require": {
         "LalaZaza/Juju": "@dev"
     },
